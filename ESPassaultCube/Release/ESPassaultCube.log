@@ -1,0 +1,8 @@
+﻿  ESPassaultCube.cpp
+C:\Users\bruno\Desktop\pastas\ESPassaultCube\ESPassaultCube.cpp(131,37): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 20 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ESPassaultCube.vcxproj -> C:\Users\bruno\Desktop\pastas\ESPassaultCube\Release\ESPassaultCube.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruno\\Desktop\\pastas\\ESPassaultCube\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45F590C8-5954-49B8-8198-9FFE3F609336}|ESPassaultCube.vcxproj|C:\\Users\\bruno\\Desktop\\pastas\\ESPassaultCube\\ESPassaultCube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{45F590C8-5954-49B8-8198-9FFE3F609336}|ESPassaultCube.vcxproj|solutionrelative:ESPassaultCube.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ESPassaultCube.cpp",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\pastas\\ESPassaultCube\\ESPassaultCube.cpp",
+              "RelativeDocumentMoniker": "ESPassaultCube.cpp",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\pastas\\ESPassaultCube\\ESPassaultCube.cpp",
+              "RelativeToolTip": "ESPassaultCube.cpp",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-22T00:29:24.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
